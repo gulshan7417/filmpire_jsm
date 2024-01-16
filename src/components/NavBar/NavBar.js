@@ -5,7 +5,7 @@ const NavBar = () => {
   console.log('NavBar');
 
   return (<div>
-  NavBar this is corrected after a long time
+  NavBar
   </div>);
 
 };
